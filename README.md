@@ -1,5 +1,9 @@
-# voltowebsite
-Main website for Volto Designs.
+# Volto Main
+Main website for Volto Designs
 Hopefully Danny will upload code soon :D
 
-Thursday is official launch date.
+##License
+Code is under MIT license (check LICENSE.txt)
+
+##Version
+Unreleased!
